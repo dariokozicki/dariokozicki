@@ -1,16 +1,29 @@
-### Hi there 👋
+# Bienvenido! <img src="wave.gif" width="30px">
 
-<!--
-**dariokozicki/dariokozicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://thekozicki.tk">
+  <img src="banner.png">
+</a>
+<br/>
 
-Here are some ideas to get you started:
+### Gracias por visitar mi perfil! Mi nombre es Darío y trabajo desarrollando aplicaciones con Java. Más abajo vas a poder ver mis proyectos personales y el tipo de trabajo que hago. Si tenés alguna duda o inquietud [no dudes en contactarme](mailto:dariokozicki@gmail.com) :blush:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<center>
+
+  ![DarioKozicki's github stats](https://github-readme-stats.vercel.app/api?username=dariokozicki&count_private=true&show_icons=true&theme=dark)
+</center>
+
+<center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dariokozicki&repo=portfolio&show_owner=true&theme=dark)](https://github.com/dariokozicki/portfolio) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dariokozicki&repo=client-free2play&show_owner=true&theme=dark)](https://github.com/dariokozicki/client-free2play)
+</center>
+
+<center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dariokozicki&repo=server-free2play&show_owner=true&theme=dark)](https://github.com/dariokozicki/server-free2play) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dariokozicki&repo=gaf-metalurgica&show_owner=true&theme=dark)](https://github.com/dariokozicki/gaf-metalurgica)
+</center>
+
+<center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dariokozicki&repo=restobar&show_owner=true&theme=dark)](https://github.com/dariokozicki/restobar)
+</center>

@@ -1,7 +1,7 @@
-# Bienvenido! <img src="wave.gif" width="30px">
+# Bienvenido! <img src="https://i.imgur.com/aP4YUh9.gif" width="30px">
 
 <a href="https://thekozicki.tk">
-  <img src="banner.png">
+  <img src="https://i.imgur.com/lxJHOry.png">
 </a>
 <br/>
 

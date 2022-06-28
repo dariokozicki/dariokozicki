@@ -1,4 +1,4 @@
-# Welcome! <img src="https://i.imgur.com/aP4YUh9.gif" width="30px">
+# Welcome! <img src="https://i.imgur.com/aP4YUh9.gif" width="30">
 
 <a href="https://thekozicki.tk">
   <img src="https://i.imgur.com/lxJHOry.png">

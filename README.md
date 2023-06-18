@@ -9,11 +9,6 @@
 
 <br/>
 
-<center>
-
-  ![DarioKozicki's github stats](https://github-readme-stats.vercel.app/api?username=dariokozicki&count_private=true&show_icons=true&theme=dracula)
-</center>
-
 ## Pinned
 
 <center>

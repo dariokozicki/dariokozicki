@@ -1,18 +1,11 @@
 # Hi, I'm Darío.
 
-I'm a software engineer who enjoys untangling complicated systems and making deliberate tradeoffs.
+I'm a software engineer interested in backend systems, cloud architecture, and infrastructure.
 
-I tend to work across boundaries: frontend and backend, product and infrastructure, implementation details and business tradeoffs. Give me a complicated system and I'll keep pulling on the thread until I understand how it works, where it fails, and whether it needs to be that complicated in the first place.
+I've worked across the stack, from React and Node.js to AWS and distributed systems. I enjoy digging into complicated systems, figuring out why they work the way they do, and making them simpler where I can.
 
-I care as much about why work matters as how it is built. I like leading by example and acting as a bridge between product, business, and engineering.
+I care about the tradeoffs behind technical decisions, especially around reliability, cost, maintainability, and what the business actually needs.
 
-My general approach:
-
-- Understand the ideal, then build what the situation actually needs.
-- Have an opinion, and be ready to be proven wrong.
-- Treat engineering decisions as business decisions.
-- Leave systems easier to understand than I found them.
-
-Currently interested in cloud architecture, distributed systems, observability, FinOps, and the organizational questions hiding inside technical ones.
+Currently interested in distributed systems, cloud architecture, observability, and FinOps.
 
 [Website](https://kozicki.dev) · [LinkedIn](https://www.linkedin.com/in/dariokozicki/) · [Email](mailto:dariokozicki@gmail.com)
